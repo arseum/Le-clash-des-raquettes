@@ -1,0 +1,5 @@
+.idea
+*.iml
+
+front/node_modules
+front/.angular
